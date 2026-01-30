@@ -7,7 +7,7 @@
 > A collection of prompts for Z-Image
 > ⚠️ Copyright Notice: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please open an issue and we will remove it promptly.
 
-[👉 Try Z-image for free at WeShop.ai](weshop.ai)
+[👉 Try Z-image for free at WeShop.ai]()
 
 ---
 ## 🤖 Try it in WeShop AI
@@ -17,7 +17,7 @@
   
 </div>
 
-[👉 Browse best examples of Z-Image on WeShop AI](weshop.ai)
+[👉 Browse best examples of Z-Image on WeShop AI]()
 
 
 Why use WeShop AI?
