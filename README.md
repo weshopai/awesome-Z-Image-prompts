@@ -88,7 +88,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
 
 <div align="center">
   
-![Young Girl Grid Photo Shoot generated image](/assets/assets/ComfyUI_00008_fgdnd_1769603415.png)
+![Young Girl Grid Photo Shoot generated image](/assets/ComfyUI_00008_fgdnd_1769603415.png)
   
 </div>
 
