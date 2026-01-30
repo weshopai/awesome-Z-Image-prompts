@@ -36,6 +36,7 @@ Why use WeShop AI?
 
 - [🤖 Try it in WeShop AI](#-try-it-in-weshop-ai)
 - [🤔 What is Z-image?](#-what-is-z-image)
+- [✍️ All Prompts](#-all-prompts)
 
 ---
 
@@ -67,12 +68,27 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
 
 <div align="center">
   
-![Elegant photo shoot of a women generated image](/assets/9d4b592e-2d44-44c9-86dd-7f3ef2d0b0f5.png_preview.webp)
+![Elegant photo shoot of a women generated image](/assets/VX-paolaoshiAICG__00006_ovphs_1769602962.png)
   
 </div>
 
+[Try it Now on WeShop AI]()
+
+### No. 2: Young Girl Grid Photo Shoot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+{ "composition": { "aspect_ratio": "16:9", "layout": "four-panel collage, 3:4 each, 2×2 grid", "framing": "close-up to extreme close-up, subject fills most of frame", "angle": "eye-level near shot, slight left/right variation, unified clean background" }, "subject": { "reference": "use uploaded reference image as strict identity source", "consistency": "zero deviation", "face": "delicate face shape, large eyes, tiny mole under right eye, slim long nose bridge", "skin": "fair with subtle pink, fine texture, slight soft-focus", "details": "prominent highlight on nose bridge and center of face, faint flush on cheeks and nose tip" }, "makeup": { "base": "translucent clean, light matte with micro-glow", "blush": "pink concentrated on cheeks and both sides of nose bridge", "eyes": "natural enlarging, long lashes, clear gaze", "lips": "glossy plump lips, gradient from light pink to peach, soft lip peaks" }, "hair": { "style": "long straight black hair, middle part, full volume, naturally falling", "flyaways": "few strands fluttering on forehead", "accessories": "one bright-pink and one light-pink hair clip on each side" }, "panels": { "top_left": "hands cupping face close to lens, cool slightly wronged expression, direct gaze", "top_right": "fingers near or lightly touching lips, calm slightly teasing look", "bottom_left": "chin or arms resting on table edge, eyes looking sideways, dazed vacant mood", "bottom_right": "fist gently under chin, restrained smile, direct gaze, warmer aura" }, "lighting": { "light": "bright soft light, very faint shadows, overall even", "palette": "cool white background, pink accents, cool-pink skin tone" }, "render": { "clarity": "sharp eyes and hair strands, skin detail kept with slight blur", "mood": "sweet girl-group Korean magazine vibe, cute dreamy, slight glassy gloss" } }
+```
+
+#### 🖼️ Generated Images
 
 <div align="center">
-  <img src="" width="600" alt="Elegant photo shoot of a women">
+  
+![Young Girl Grid Photo Shoot generated image](/assets/assets/ComfyUI_00008_fgdnd_1769603415.png)
+  
 </div>
 
