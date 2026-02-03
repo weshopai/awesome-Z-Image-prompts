@@ -5,6 +5,7 @@
 [![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)]()
 
 > A collection of prompts for Z-Image
+
 > ⚠️ Copyright Notice: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please open an issue and we will remove it promptly.
 
 [👉 Try Z-image for free at WeShop.ai]()
@@ -373,6 +374,7 @@ A breathtaking 23-year-old Korean woman with porcelain-smooth fair skin, perfect
 ### No. 16: Maid Costume Portrait with Lace Headband and Stockings
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
 
@@ -395,3 +397,31 @@ I. Clothing and Styling  1. Outfit style: Classic black-and-white maid dress, ru
 </div>
 
 [👉 Try it Now on WeShop AI]()
+
+### No. 17: Indoor Selfie Portrait by a Window at Dusk
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+一、场景与背景1 日常落地窗背景：日常落地窗背景，树影斑驳2 氛围基调：整体氛围真实平静，毫无修饰感，呈现日常快照风格，强调真实生活瞬间二、人物与体态1 人物设定：年轻美女，神情自然，表情自然可爱2 身材特征：身材火辣傲人，上围挺拔饱满，沙漏型身材，葫芦形身材，露肩展现锁骨线条三、穿搭与造型1 服装风格：女生穿麻纱短上衣，时尚休闲，整体造型随性潮流2 发型细节：长发，细软发质，鬓角发丝自然垂落，微微反射光泽四、面部与妆容1 皮肤与底妆：皮肤白皙，底妆通透，肤色均匀自然2 五官特征：野性美，五官精致，瘦脸大眼，樱桃小嘴，尖下巴五、镜头与构图1 构图方式：构图为前置镜头自拍，镜头略偏斜2 自由度要求：姿势随机，角度随意，构图随意，动作随性六、光线与质感1 明暗关系：昏暗，运用伦勃朗光凸显立体轮廓2 画面质感：整体氛围真实平静，毫无修饰感，呈现日常快照风格
+```
+
+#### 📝 Prompt(Translated)
+
+```
+I. Scene and Background1. Everyday floor-to-ceiling window setting: an everyday floor-to-ceiling window backdrop with dappled tree shadows.  2. Mood and tone: the overall atmosphere is realistic and calm, completely unembellished, presenting an everyday snapshot style that emphasizes authentic moments of real life.II. Character and Posture1. Character setup: a young beautiful woman with a natural demeanor; her expression is naturally cute.  2. Body features: a hot, striking figure; perky and full bust; an hourglass silhouette; gourd-shaped figure; off-shoulder to show the collarbone line.III. Outfit and Styling1. Clothing style: the girl wears a linen-gauze short top, fashionable and casual; the overall look is relaxed and trendy.  2. Hairstyle details: long hair with fine, soft texture; side strands naturally falling; slightly reflecting a sheen.IV. Face and Makeup1. Skin and base makeup: fair skin; a translucent base; an even, natural complexion.  2. Facial features: a wild beauty; delicate features; slim face and big eyes; cherry-like small lips; pointed chin.V. Camera and Composition1. Composition method: a front-camera selfie composition, with the camera slightly tilted.  2. Freedom requirements: random pose, casual angle, casual framing, and spontaneous movement.VI. Lighting and Texture1. Light and shadow: dim, using Rembrandt lighting to highlight three-dimensional contours.  2. Image texture: the overall atmosphere is realistic and calm, completely unembellished, presenting an everyday snapshot style.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Indoor Selfie Portrait by a Window at Dusk generated image](/assets/awesome00008.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
