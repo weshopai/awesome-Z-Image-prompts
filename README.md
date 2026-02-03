@@ -72,7 +72,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI]()
 
 ### No. 2: Young Girl Grid Photo Shoot
 
@@ -92,3 +92,31 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
+[👉 Try it Now on WeShop AI]()
+
+### No. 3: Fashion Portrait with Pastel Balloons and Glitter Handbag
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+{“project_metadata”： {“target_quality”：“超写实电影”“resolution_profile”：“8K / UHD”，“preservation_protocol”：“1000%面部一致性 / 零面部扭曲”“aesthetic_engine”：“抖音高端时尚美学”},“主旨”：{“生物识别”：{“身材”：“优雅/匀称/身材优美”，“皮肤”：{“base_tone”：“真是质感”，“妆效”：“自然露水/玻璃肌肤/油光/顺滑”，“lighting_interaction”：“在柔和光线下高度反光”}},“head_and_face”： {“眼睛”：{“形状”：“杏仁”“效果”：“放大/圆形轮廓”，“妆容”：“闪亮的娃娃眼（Aegyo-sal）/眼下闪光”},“嘴唇”：{“颜色”：“桃粉色”“质地”：“高光泽/多汁妆效”},“头发”：{“颜色”：“深棕色”“风格”：“长大/丰盈”，“curl_pattern”：“终端处释放大浪”}},“attire_manifest”： {“primary_garment”： {“商品”：“短款紧身裙”，“颜色”：“淡紫色”“领口”：“亲爱的”，“绑带”：“意大利面条带”，“材质”：“花卉蕾丝 / 亮片刺绣覆盖层”},“鞋类”：{“类型”：“细高跟鞋”，“表面效果”：“金属金/粉色”，“点缀”：“蝴蝶主题肩带 / 露趾”},“配件”：[{ “类型”：“项链”，“细节”：“短珍珠项圈” }，{ “类型”：“耳环”，“细节”：“悬挂钻石 / 粉红宝石” }，{ “类型”：“手提包”，“细节”：“小弧形粉色百褶布手拿包” }，{ “类型”：“头发/手指重音”，“细节”：“小粉色蝴蝶夹/戒指” }]}},“environment_configuration”： {“primary_container”：“豪华玻璃电梯”，“surface_layer”：“白色蓬松高绒毛仿毛地毯”，“道具”：“多彩粉彩气球簇”，“lighting_logic”： {“primary_source”：“柔和温暖的环境光”，“secondary_source”：“玻璃和亮片的反光高光”}},“compositional_directives”： {“相机”：{“角度”：“高角度/头顶倾斜”，“focus_mode”：“以主体为中心的锐利对焦”，《depth_of_field》：“浅（柔和背景散景）”},“姿势”：{“定向”：“坐在地板上”，“动作”：“手轻轻放在下巴上/感性姿态”，“prop_placement”：“手提包横置于受试者的位置”}}}
+```
+
+#### 📝 Prompt(Translated)
+
+```
+{  "project_metadata": {    "target_quality": "Ultra-photorealistic cinema",    "resolution_profile": "8K / UHD",    "preservation_protocol": "1000% facial consistency / zero facial distortion",    "aesthetic_engine": "Douyin high-end fashion aesthetic"  },  "theme": {    "biometrics": {      "figure": "Elegant / well-proportioned / beautiful physique",      "skin": {        "base_tone": "Realistic texture",        "makeup_effect": "Natural dewy / glass skin / oily glow / smooth",        "lighting_interaction": "Highly reflective under soft lighting"      }    },    "head_and_face": {      "eyes": {        "shape": "Almond",        "effect": "Enlarged / rounded contour",        "makeup": "Shimmery doll eyes (aegyo-sal) / under-eye sparkle"      },      "lips": {        "color": "Peach pink",        "texture": "High-gloss / juicy look"      },      "hair": {        "color": "Dark brown",        "style": "Long / voluminous",        "curl_pattern": "Loose big waves released at the ends"      }    },    "attire_manifest": {      "primary_garment": {        "item": "Short bodycon dress",        "color": "Light lavender",        "neckline": "Sweetheart",        "straps": "Spaghetti straps",        "material": "Floral lace / sequin-embroidered overlay"      },      "footwear": {        "type": "Stiletto heels",        "finish": "Metallic gold / pink",        "embellishments": "Butterfly-themed straps / open toe"      },      "accessories": [        { "type": "Necklace", "details": "Short pearl choker" },        { "type": "Earrings", "details": "Dangling diamonds / pink rubies" },        { "type": "Handbag", "details": "Small arched pink pleated fabric clutch" },        { "type": "Hair/finger accents", "details": "Small pink butterfly clip / ring" }      ]    }  },  "environment_configuration": {    "primary_container": "Luxury glass elevator",    "surface_layer": "White fluffy high-pile faux-fur carpet",    "props": "Colorful pastel balloon clusters",    "lighting_logic": {      "primary_source": "Soft warm ambient light",      "secondary_source": "Reflective highlights from glass and sequins"    }  },  "compositional_directives": {    "camera": {      "angle": "High angle / overhead tilt",      "focus_mode": "Subject-centered sharp focus",      "depth_of_field": "Shallow (soft background bokeh)"    },    "pose": {      "orientation": "Sitting on the floor",      "action": "Hand gently resting on the chin / sensual pose",      "prop_placement": "Handbag placed horizontally at the subject’s position"    }  }}
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Fashion Portrait with Pastel Balloons and Glitter Handbag generated image](/assets/awesome1.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
