@@ -128,14 +128,156 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
 #### 📝 Prompt
 
 ```
-{ "composition": { "aspect_ratio": "16:9", "layout": "four-panel collage, 3:4 each, 2×2 grid", "framing": "close-up to extreme close-up, subject fills most of frame", "angle": "eye-level near shot, slight left/right variation, unified clean background" }, "subject": { "reference": "use uploaded reference image as strict identity source", "consistency": "zero deviation", "face": "delicate face shape, large eyes, tiny mole under right eye, slim long nose bridge", "skin": "fair with subtle pink, fine texture, slight soft-focus", "details": "prominent highlight on nose bridge and center of face, faint flush on cheeks and nose tip" }, "makeup": { "base": "translucent clean, light matte with micro-glow", "blush": "pink concentrated on cheeks and both sides of nose bridge", "eyes": "natural enlarging, long lashes, clear gaze", "lips": "glossy plump lips, gradient from light pink to peach, soft lip peaks" }, "hair": { "style": "long straight black hair, middle part, full volume, naturally falling", "flyaways": "few strands fluttering on forehead", "accessories": "one bright-pink and one light-pink hair clip on each side" }, "panels": { "top_left": "hands cupping face close to lens, cool slightly wronged expression, direct gaze", "top_right": "fingers near or lightly touching lips, calm slightly teasing look", "bottom_left": "chin or arms resting on table edge, eyes looking sideways, dazed vacant mood", "bottom_right": "fist gently under chin, restrained smile, direct gaze, warmer aura" }, "lighting": { "light": "bright soft light, very faint shadows, overall even", "palette": "cool white background, pink accents, cool-pink skin tone" }, "render": { "clarity": "sharp eyes and hair strands, skin detail kept with slight blur", "mood": "sweet girl-group Korean magazine vibe, cute dreamy, slight glassy gloss" } }
+{ "composition": { "layout": "four-panel collage, 3:4 each, 2×2 grid", "framing": "close-up to extreme close-up, subject fills most of frame", "angle": "eye-level near shot, slight left/right variation, unified clean background" }, "subject": { "reference": "use uploaded reference image as strict identity source", "consistency": "zero deviation", "face": "delicate face shape, large eyes, tiny mole under right eye, slim long nose bridge", "skin": "fair with subtle pink, fine texture, slight soft-focus", "details": "prominent highlight on nose bridge and center of face, faint flush on cheeks and nose tip" }, "makeup": { "base": "translucent clean, light matte with micro-glow", "blush": "pink concentrated on cheeks and both sides of nose bridge", "eyes": "natural enlarging, long lashes, clear gaze", "lips": "glossy plump lips, gradient from light pink to peach, soft lip peaks" }, "hair": { "style": "long straight black hair, middle part, full volume, naturally falling", "flyaways": "few strands fluttering on forehead", "accessories": "one bright-pink and one light-pink hair clip on each side" }, "panels": { "top_left": "hands cupping face close to lens, cool slightly wronged expression, direct gaze", "top_right": "fingers near or lightly touching lips, calm slightly teasing look", "bottom_left": "chin or arms resting on table edge, eyes looking sideways, dazed vacant mood", "bottom_right": "fist gently under chin, restrained smile, direct gaze, warmer aura" }, "lighting": { "light": "bright soft light, very faint shadows, overall even", "palette": "cool white background, pink accents, cool-pink skin tone" }, "render": { "clarity": "sharp eyes and hair strands, skin detail kept with slight blur", "mood": "sweet girl-group Korean magazine vibe, cute dreamy, slight glassy gloss" } }
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Studio Fashion Portrait with Bubblegum on Blue Background generated image](/assets/awesome00020.png)
+![Studio Fashion Portrait with Bubblegum on Blue Background generated image](/assets/awesome0002.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 5: Glamour Headshot with Long Dangling Earrings
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+{"style":"ultra-realistic celebrity portrait, soft romantic photography","subject":{"gender":"female","age":"young adult","pose":"tilting head slightly to the side, looking up at camera through lashes, playful and cute posture","expression":"pouting lips, acting cute, puppy eyes, innocent look, 'sajiao' vibe","facial_details":{"eyes":"big imploring eyes, looking up, soft gaze","mouth":"pouted lips, slight pout","cheeks":"faint blush","freckles":"visible natural freckles across nose and cheeks","makeup":{"skin":"dewy natural finish","lips":"glossy pink","eyes":"doe-eyed makeup"}},"hair":{"color":"jet black","length":"long","style":"straight, soft texture, falling over one shoulder"},"outfit":{"dress":"black fitted dress with deep plunging V-neckline","jewelry":{"earrings":"long dangling gold chain earrings","necklaces":"layered gold necklaces with a small heart pendant"}}},"environment":{"setting":"soft studio setting","background":"creamy soft focus background, blurred"},"lighting":{"type":"soft diffused light","mood":"romantic, sweet, charming","tone":"warm peach and cream tones"},"camera":{"shot_type":"close-up portrait","angle":"slightly high angle","focus":"sharp focus on eyes","lens":"85mm f/1.4"},"quality":{"resolution":"8k","texture":"realistic skin texture","aesthetic":"k-pop aesthetic influence, soft dreamy style"}}
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Glamour Headshot with Long Dangling Earrings generated image](/assets/awesome00026.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 6: Playful Winking Portrait in Black Dress
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+{"style":"hyper-realistic studio portrait","subject":{"gender":"asian-female","age":"youth","pose":"body slightly leaning forward, facing the camera","expression":"playful, flirty","facial_details":{"wink":true,"tongue_out":true,"freckles":false,"makeup":{"blush":"soft pink","lips":"glossy"}},"hair":{"color":"black","length":"long","part":"side parted","style":"naturally draped over shoulders"},"full_outfit":{"dress":"off-shoulder fitted black dress, as low as possible","jewelry":{"earrings":"long dangling gold earrings","necklace":"multi-layered gold necklace with small heart pendant"}}},"environment":{"setting":"studio","background":"clean, minimal, light, neutral tones"},"lighting":{"type":"soft diffused studio lighting","shadows":"soft natural shadows"},"camera":{"lens":"50mm","aperture":"f/1.8","depth_of_field":"shallow"},"quality":{"resolution":"high resolution","detail":"extremely detailed","skin_texture":"photorealistic","focus":"sharp focus","photography_style":"high-end fashion lifestyle photography"}}
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Playful Winking Portrait in Black Dress generated image](/assets/awesome00003.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 7: Blonde Woman in Pink Lace Dress
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+{ "prompt": "Ultra-photorealistic portrait of a beautiful young woman with the exact face and long blonde center-parted hair from the reference image, standing in a charming outdoor French-style café, blush pink delicate floral lace mini dress with thick lace straps, sweetheart neckline, ruffled hem, showing her long toned legs, one leg playfully lifted and bent at the knee resting on a low surface, right hand gently lifting the skirt hem to reveal more leg, left hand relaxed by her side, confident relaxed editorial pose, small minimal stud earrings, no sunglasses, no coffee cup, head slightly tilted, soft natural daylight from upper left, warm highlights on skin and hair, deep cinematic shadows on the right side of face and body, hyper-realistic skin texture with visible pores and subtle imperfections, Vogue editorial style, cinematic realism, shallow depth of field, muted green café wall and wicker chairs in soft-focus background, high detail, 8k",  "negative_prompt": "deformed, blurry, low resolution, extra limbs, bad anatomy, watermark, text, logo, overexposed, underexposed, cartoon, anime, illustration, painting, plastic skin, heavy makeup, glasses, sunglasses, coffee cup, holding objects in hands",  "aspect_ratio": "2:3",  "style": "photorealistic, cinematic, vogue editorial",  "lighting": "natural sunlight from upper left, warm highlights, deep shadows",  "camera_angle": "slightly low angle, full body with leg emphasis",  "reference": "use exact face and hair from provided reference image"}
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Playful Winking Portrait in Black Dress generated image](/assets/awesome00030.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 8: Blue-Lit Bedroom Selfie Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+Vertical, realistic low-light phone selfie in a dim bedroom at night. Cool bluish-purple screen glow lighting on a pale face; background mostly dark with beige blackout curtains on the left. Sleepy, cozy, late-night lo-fi vibe.
+Close-up, slightly low angle. Subject lying on stomach, propped on a grey pillow with subtle pattern. Messy black bedhead hair with wispy bangs. Soft, dreamy/blank stare, mouth slightly open. Hand near face, index finger touching lowerlip.
+Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare. Soft focus, visible grain/noise, high contrast between lit face and dark background.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Blue-Lit Bedroom Selfie Portrait generated image](/assets/awesome00016.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 8: Elegant Hanfu Portrait with Silver Hair Ornaments
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+1. **Composition and Camera Angle**     - **Aspect Ratio:** Vertical composition, with the character occupying about four-fifths of the frame height.     - **Shot Distance:** Medium close-up, capturing the character from the knees to the top of the head.     - **Camera Height:** Slightly low-angle, just below the character’s eye level.     - **Character Placement:** Centered in the frame, slightly higher, with the body leaning gently to the right.     - **Negative Space:** Minimal space above and below, with the sides framed by dark night scenery and wooden railings.     - **Texture Note:** Resembles a low-quality iPhone photo taken with flash under dim lighting, with an almost entirely dark, indistinguishable background.  2. **Scene and Environment**     - **Scene Type:** Ancient-style garden at night.  3. **Character Design and Pose**     - **Character Design:** Delicate facial features, slightly larger eyes, a small mole under the right eye, slender nose, light pink lips, clean makeup, with a Korean/Japanese slutty aesthetic.     - **Pose and Movement:** Sitting on a wooden bench, arms resting naturally，slightly lean to show cleavage   - **Shoulder and Neck Lines:** Exposed shoulders and collarbones, with a slender neck.     - **Facial Angle:** Facing the camera directly, head slightly tilted forward, expression calm and relaxed.  4. **Costume Design**     - **Costume Style:** Ancient-style wide-sleeved robe in light colors with subtle patterns, featuring a diagonal collar and a large neckline that naturally slips down to expose the collarbones and neckline.  5. **Shawl Structure**     - **Shawl Design:** Soft, fluffy white fur shawl slipping downward, wrapping around the forearms and above the knees to create a full, cozy fur enclosure. The edges are soft and fluffy, with fine fur details.  6. **Hairstyle**     - **Hairstyle:** High ancient-style updo, with a voluminous top and a rounded, full bun. The back hair is neatly gathered and pinned up, while the sides are combed back and secured. The overall shape is an elongated oval, with clean hairline and long sideburns hanging straight down to the waist, framing the face.  7. **Accessories**     - **Accessories:** A pair of ancient-style hairpins (步摇) symmetrically placed on both sides of the bun. Metal hairpins are inserted into the top of the bun, connecting to multi-layered tassels and pendants. Fine chains hang down in layers, adorned with small beads, flower-shaped metal pieces, and occasional teardrop pendants that sway slightly with head movements. The metal and pearl accents catch highlights in the night, appearing elegant but not overly extravagant.  8. **Hair Texture and Flow**     - **Hair Texture and Flow:** Natural black straight hair, smooth and fine with a subtle sheen. The sideburns near the face hang straight and close, with clean lines. The pinned-up hair follows the head shape closely, with a few loose strands softening the edges. The overall hair volume is abundant, with clear contours and realistic hair texture, including slight frizz details.  9. **Mood and Atmosphere**     - **Emotional Tone:** Quiet, gentle, slightly distant yet approachable.     - **Atmosphere Setting:** Late-night garden, serene surroundings, cool air, with the character exuding a soft, secure, and enveloping presence.     - **Eye Contact:** Direct gaze at the camera, no exaggerated smile, subtle expression in the eyes, conveying a gentle and flerty emotion.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Elegant Hanfu Portrait with Silver Hair Ornaments generated image](/assets/awesome00025.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 9: Fashion Model in Navy Blazer and Glasses
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+{subject:gender:asian-femaleage:young adult (18-22)appearance:skin:fair, real textureeyes:phoenix eyes (slanted almond shape), sharp and alluringfeatures:beauty mark under eye, delicate facial structurehair:color:light blonde / platinum blondestyle:long straight hair with air bangstexture:silky, high-fidelity strands}},accessories:eyewear:thin silver/gold metal-rimmed round glassesjewelry:minimalist}},clothingstyleJK uniform / Academy styletopnavy blue tailored blazer with gold buttons, crisp white collared shirt underneathbottommatching navy blue pleated mini skirtleg_wearblack silk thigh-high socksfootwearglossy high-heeled Mary Jane shoes},pose_and_cameraposturesitting elegantly on a leather bar stoollegscrossed legs (ladylike cross), highlighting leg linehandsresting naturally on lapangleeye-level or slightly low angleframingmedium shot, capturing full body seated},environmentlocationindoor cafe or lounge by the windowweatherheavy rain at nightelementswindowfloor-to-ceiling glass with visible raindrops and condensationbackgroundblurred city nightscape, bokeh city lightslightingcool ambient indoor light mixed with neon pink and blue reflections from outside}},quality8k resolution, ray tracing, subsurface scatteringatmospheremoody, cinematic, cyberpunk-lite, wet and glossy textures}}
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Fashion Model in Navy Blazer and Glasses generated image](/assets/awesome00029.png)
+  
+</div>
+
+[👉 Try it Now on WeShop AI]()
+
+### No. 10: Modern Urban Outdoor Model Photo Shoot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+A young Japanese beauty model glamour hot in a stylish black streped jeans with shorts chiaroscuro black outfit outdoors short jeans , three-quarter portrait (from lower legs upward), elegant body framing and balanced proportions.Long wavy light browny hair with airy textureSoft K-beauty makeup: peach-pink eyeshadow with subtle shimmer, long curled lashes, delicate eyeliner, warm hazel circle lenses giving a doll-like enlargement, rosy blush, rose-pink gradient velvet matte lips.Outfit: black  extreamly short jeans and skirtAccessories: dangling earrings.Pose: slightly leaning forward, engaging gaze, feminine charm, slutty, show cleavage.Environment: tokyo city building scene natural lightPhotography style: high-end outdoor fashion portrait, soft bright sunlight, cinematic soft glow, shallow depth of field, crisp skin rendering, airy color grading, mild film grain.Atmosphere: lively, warm, romantic, playful festival vibe.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+![Modern Urban Outdoor Model Photo Shoot generated image](/assets/awesome00022.png)
   
 </div>
 
