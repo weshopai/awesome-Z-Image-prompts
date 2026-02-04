@@ -2,23 +2,23 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
-[![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)](weshop.ai)
+[![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)](https://weshop.ai)
 
 > A collection of prompts for Z-Image
 
 > ⚠️ Copyright Notice: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please open an issue and we will remove it promptly.
 
-[👉 Try Z-image for free at WeShop.ai](weshop.ai)
+[👉 Try Z-image for free at WeShop.ai](https://weshop.ai)
 
 ---
 ## 🤖 Try it in WeShop AI
 <div align="center">
 
-  [![Logo](/assets/WeShopAI.png)](weshop.ai)
+  [![Logo](/assets/WeShopAI.png)](https://weshop.ai)
   
 </div>
 
-[👉 Browse best examples of Z-Image on WeShop AI](weshop.ai)
+[👉 Browse best examples of Z-Image on WeShop AI](https://weshop.ai)
 
 
 Why use WeShop AI?
