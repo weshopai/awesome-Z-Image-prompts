@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
-[![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)]()
+[![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)](weshop.ai)
 
 > A collection of prompts for Z-Image
 
 > ⚠️ Copyright Notice: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please open an issue and we will remove it promptly.
 
-[👉 Try Z-image for free at WeShop.ai]()
+[👉 Try Z-image for free at WeShop.ai](weshop.ai)
 
 ---
 ## 🤖 Try it in WeShop AI
@@ -18,7 +18,7 @@
   
 </div>
 
-[👉 Browse best examples of Z-Image on WeShop AI]()
+[👉 Browse best examples of Z-Image on WeShop AI](weshop.ai)
 
 
 Why use WeShop AI?
@@ -73,7 +73,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 2: Young Girl Grid Photo Shoot
 
@@ -93,7 +93,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 3: Fashion Portrait with Pastel Balloons and Glitter Handbag
 
@@ -120,7 +120,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 4: Studio Fashion Portrait with Bubblegum on Blue Background
 
@@ -140,7 +140,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 5: Glamour Headshot with Long Dangling Earrings
 
@@ -160,7 +160,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 6: Playful Winking Portrait in Black Dress
 
@@ -180,7 +180,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 7: Blonde Woman in Pink Lace Dress
 
@@ -200,7 +200,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 8: Blue-Lit Bedroom Selfie Portrait
 
@@ -222,7 +222,7 @@ Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 9: Elegant Hanfu Portrait with Silver Hair Ornaments
 
@@ -242,7 +242,7 @@ Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 10: Fashion Model in Navy Blazer and Glasses
 
@@ -262,7 +262,7 @@ Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 11: Modern Urban Outdoor Model Photo Shoot
 
@@ -282,7 +282,7 @@ A young Japanese beauty model glamour hot in a stylish black streped jeans with 
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 12: Girl Sitting in a Shopping Cart in a Grocery Store Aisle
 
@@ -302,7 +302,7 @@ A playful, high-energy fisheye portrait of a stylish young woman sitting inside 
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 13: Studio Portrait of a Blonde Woman Wearing Glasses
 
@@ -329,7 +329,7 @@ A Chinese girl with blonde hair, wearing thin-framed glasses, with a cool and al
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 14: Indoor Lingerie Portrait in a Modern Corridor
 
@@ -349,7 +349,7 @@ A Chinese girl with blonde hair, wearing thin-framed glasses, with a cool and al
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 15: Glam portrait of a woman posing indoors at night
 
@@ -369,7 +369,7 @@ A breathtaking 23-year-old Korean woman with porcelain-smooth fair skin, perfect
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 16: Maid Costume Portrait with Lace Headband and Stockings
 
@@ -396,7 +396,7 @@ I. Clothing and Styling  1. Outfit style: Classic black-and-white maid dress, ru
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 17: Indoor Selfie Portrait by a Window at Dusk
 
@@ -423,7 +423,7 @@ I. Scene and Background1. Everyday floor-to-ceiling window setting: an everyday 
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 18: Cosplay model wearing a festive bunny-eared Santa hood
 
@@ -450,7 +450,7 @@ I. Scene and Background1. Everyday floor-to-ceiling window setting: an everyday 
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 19: AI Bikini Portrait by the Pool
 
@@ -490,7 +490,7 @@ Scene description: This Chinese woman is by a resort pool. She has long, wavy bl
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 21: Relaxed Bedroom Portrait with Window Blinds Shadows
 
@@ -510,7 +510,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 22: Mirror Selfie in Red McDonald’s Bikini and Cap
 
@@ -530,7 +530,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 23: Glamorous Woman Posing in a Living Room
 
@@ -550,7 +550,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 24: Nighttime Window Light Lingerie Photo Shoot
 
@@ -570,7 +570,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 
 ### No. 25: Woman in black bunny costume on a bed
@@ -591,7 +591,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 26: Neon Green Wig Fashion Portrait in Industrial Corner
 
@@ -611,7 +611,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 27: Mirror selfie with camera flash in a bedroom
 
@@ -631,7 +631,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 28: Woman in Red Dress Lying on a Sofa
 
@@ -651,7 +651,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 29: Nighttime Pool Portrait with Rippling Blue Water
 
@@ -671,7 +671,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 30: Bedroom Portrait with Off-Shoulder Shirt
 
@@ -691,7 +691,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 31: Casual Indoor Portrait on Blue Sofa
 
@@ -711,7 +711,7 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
 
 ### No. 32: Woman Relaxing in an Outdoor Hot Tub in Snow
 
@@ -731,4 +731,4 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](weshop.ai)
