@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
-[![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)](https://weshop.ai)
+[![WeShop AI Z-Image](https://img.shields.io/badge/WeShop%20AI-Z--Image-7530FE)](https://www.weshop.ai/tools/z-image)
 
 > A collection of prompts for Z-Image
 
@@ -18,7 +18,7 @@
   
 </div>
 
-[👉 Browse best examples of Z-Image on WeShop AI](https://weshop.ai)
+[👉 Browse best examples of Z-Image on WeShop AI](https://www.weshop.ai/tools/z-image)
 
 
 Why use WeShop AI?
