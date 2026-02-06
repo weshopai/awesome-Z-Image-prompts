@@ -55,45 +55,46 @@ Z-Image is a high-performance image generation foundation model designed to deli
 
 ## 📋 All Prompts
 
-### No. 1: Elegant photo shoot of a women
+### No. 1: Initimate photo shoot of a women
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to three-quarter portrait. Sleeveless fitted black outfit with deep V neckline, short skirt, sheer black stockings, black high heels. Gold bangles, black gloves. Soft studio lighting with subtle contrast, gentle highlights on face and outfit. Simple gray minimal studio backdrop. Professional studio glamour portrait, sharp focus, 8K UHD, ultra-detailed, high-definition professional photography look.
+A young American woman was posing intimately in the dim light, with a warm glow surrounding her.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Elegant photo shoot of a women generated image](/assets/VX-paolaoshiAICG__00006_ovphs_1769602962.png)
+![Intimate photo shoot of a women generated image](/assets/awesome-r-1.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467063aa7e08ed70ad66)
 
-### No. 2: Young Girl Grid Photo Shoot
+### No. 2: Young Girl Photo Shoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-{ "composition": { "aspect_ratio": "16:9", "layout": "four-panel collage, 3:4 each, 2×2 grid", "framing": "close-up to extreme close-up, subject fills most of frame", "angle": "eye-level near shot, slight left/right variation, unified clean background" }, "subject": { "reference": "use uploaded reference image as strict identity source", "consistency": "zero deviation", "face": "delicate face shape, large eyes, tiny mole under right eye, slim long nose bridge", "skin": "fair with subtle pink, fine texture, slight soft-focus", "details": "prominent highlight on nose bridge and center of face, faint flush on cheeks and nose tip" }, "makeup": { "base": "translucent clean, light matte with micro-glow", "blush": "pink concentrated on cheeks and both sides of nose bridge", "eyes": "natural enlarging, long lashes, clear gaze", "lips": "glossy plump lips, gradient from light pink to peach, soft lip peaks" }, "hair": { "style": "long straight black hair, middle part, full volume, naturally falling", "flyaways": "few strands fluttering on forehead", "accessories": "one bright-pink and one light-pink hair clip on each side" }, "panels": { "top_left": "hands cupping face close to lens, cool slightly wronged expression, direct gaze", "top_right": "fingers near or lightly touching lips, calm slightly teasing look", "bottom_left": "chin or arms resting on table edge, eyes looking sideways, dazed vacant mood", "bottom_right": "fist gently under chin, restrained smile, direct gaze, warmer aura" }, "lighting": { "light": "bright soft light, very faint shadows, overall even", "palette": "cool white background, pink accents, cool-pink skin tone" }, "render": { "clarity": "sharp eyes and hair strands, skin detail kept with slight blur", "mood": "sweet girl-group Korean magazine vibe, cute dreamy, slight glassy gloss" } }
+Create a 4K ultra-realistic 3D portrait image of a slim young woman with long wavy light brown hair.
+Place the outfit in image 2 on the woman in image 1. She poses seductively at the viewer. Few loose hair strands falling across her face. Create a disposable camera effect. She sits on the backseat of the car after a night out with her as she poses without her hat and touches her lips.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Young Girl Grid Photo Shoot generated image](/assets/ComfyUI_00008_fgdnd_1769603415.png)
+![Young Girl Photo Shoot generated image](/assets/awesome-r-2.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984466f63aa7e08ed70ad65)
 
 ### No. 3: Fashion Portrait with Pastel Balloons and Glitter Handbag
 
@@ -202,27 +203,25 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
 
 [👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image/A-Woman-Poses-In-A-Delicate-Floral-Dress-Outside-A-Charming-Caf%C3%A9-Setting)
 
-### No. 8: Blue-Lit Bedroom Selfie Portrait
+### No. 8: Dim-Lit Bedroom Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-Vertical, realistic low-light phone selfie in a dim bedroom at night. Cool bluish-purple screen glow lighting on a pale face; background mostly dark with beige blackout curtains on the left. Sleepy, cozy, late-night lo-fi vibe.
-Close-up, slightly low angle. Subject lying on stomach, propped on a grey pillow with subtle pattern. Messy black bedhead hair with wispy bangs. Soft, dreamy/blank stare, mouth slightly open. Hand near face, index finger touching lowerlip.
-Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare. Soft focus, visible grain/noise, high contrast between lit face and dark background.
+A young American woman was posing intimately in the dim light, with a warm glow surrounding her.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Blue-Lit Bedroom Selfie Portrait generated image](/assets/awesome00016.png)
+![Dim-Lit Bedroom Selfie Portrait generated image](/assets/awesome-r-3.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467163aa7e08ed70ad67)
 
 ### No. 9: Elegant Hanfu Portrait with Silver Hair Ornaments
 
@@ -264,25 +263,25 @@ Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare
 
 [👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image/A-Woman-Dressed-In-A-Stylish-Navy-Outfit-Poses-Confidently-In-A-Modern-Setting-With-Large-Windows-Showcasing-A-Vibrant-Cityscape-At-Night)
 
-### No. 11: Modern Urban Outdoor Model Photo Shoot
+### No. 11: In Car Photo Shoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-A young Japanese beauty model glamour hot in a stylish black streped jeans with shorts chiaroscuro black outfit outdoors short jeans , three-quarter portrait (from lower legs upward), elegant body framing and balanced proportions.Long wavy light browny hair with airy textureSoft K-beauty makeup: peach-pink eyeshadow with subtle shimmer, long curled lashes, delicate eyeliner, warm hazel circle lenses giving a doll-like enlargement, rosy blush, rose-pink gradient velvet matte lips.Outfit: black  extreamly short jeans and skirtAccessories: dangling earrings.Pose: slightly leaning forward, engaging gaze, feminine charm, slutty, show cleavage.Environment: tokyo city building scene natural lightPhotography style: high-end outdoor fashion portrait, soft bright sunlight, cinematic soft glow, shallow depth of field, crisp skin rendering, airy color grading, mild film grain.Atmosphere: lively, warm, romantic, playful festival vibe.
+Create a 4K ultra-realistic portrait image of a slim young woman with long wavy light brown hair.She poses seductively at the viewer. Few loose hair strands falling across her face. Create a disposable camera effect. She sits on the backseat of the car after a night out with her as she poses without her hat and touches her lips.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Modern Urban Outdoor Model Photo Shoot generated image](/assets/awesome00022.png)
+![In Car Photo Shoot generated image](/assets/awesome-r-4.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI]()
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467263aa7e08ed70ad68)
 
 ### No. 12: Girl Sitting in a Shopping Cart in a Grocery Store Aisle
 
@@ -358,72 +357,59 @@ A Chinese girl with blonde hair, wearing thin-framed glasses, with a cool and al
 #### 📝 Prompt
 
 ```
-A breathtaking 23-year-old Korean woman with porcelain-smooth fair skin, perfectly symmetrical heart-shaped face, large doe-like eyes with long curled lashes and subtle aegyo-sal, delicate straight nose, plump glossy rose-tinted lips in a soft teasing pout, long silky jet-black hair with wispy face-framing layers falling over one shoulder. She wears an ultra-thin, slightly sheer white cotton ribbed tank top with an extremely deep plunging neckline that stretches taut across her full, natural breasts, the fabric so thin it subtly shows the outline of her areolas beneath, deep shadowed cleavage that draws the eye downward, one thin strap slipping off her shoulder exposing more of the upper swell and gentle side curve. She’s leaning slightly forward on her elbows on a soft beige bed, arms pressing her chest together naturally to accentuate the cleavage even more, bedroom with warm golden ambient light from a bedside lamp, sheer white curtains diffusing late-afternoon sun, seductive half-lidded gaze looking directly at viewer with a playful knowing smile, ultra-realistic skin pores and subtle blush, photorealistic, 8k, highly detailed fabric texture and soft shadows
+Kim Kardashian style, influencer aesthetic, in a luxury minimalist mansion, huge floor-to-ceiling windows, sculptural body, extreme hourglass figure, posing to accentuate curves, nude bodycon dress, golden hour lighting, sun-kissed glowing skin, confident gaze, lifestyle photography, high fashion, Instagram iconic pose
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Glam portrait of a woman posing indoors at night generated image](/assets/awesome00006.png)
+![Glam portrait of a woman posing indoors at night generated image](/assets/awesome-r-5.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467963aa7e08ed70ad6e)
 
-### No. 16: Maid Costume Portrait with Lace Headband and Stockings
+### No. 16: Bed portrait of a girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
-![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
 
 ```
-一、服饰与造型1 服装风格：经典黑白女仆连衣裙、荷叶边围裙、蕾丝边裙摆、袖口褶皱设计2 配饰细节：蕾丝女仆头饰、黑色长筒丝袜、吊带袜固定带3 妆容发型：黑色长直发配齐刘海、自然内扣发尾二、画面主体与构图1 角色设定：黑长直少女、微微张唇、脸型精致可爱、眼睛偏大、妆容干净偏日韩感。2 姿态构图：斜躺复古沙发、身体呈对角线、上半身略后仰、单腿抬起、近景构图、人物充满画面3 视角镜头：略低机位、轻微仰拍、腿部前景放大、浅景深背景虚化三、场景与道具1 场景环境：欧式复古沙发、雕花金色扶手、花纹布艺坐垫、靠背与墙面同色系2 背景元素：浅绿色墙面、局部装饰物虚化、整体背景简洁不抢眼3 空间感觉：室内私密空间、人物与沙发紧贴、构成柔软包围感四、色彩与光影1 主色调：黑白服饰为主、背景浅绿与金色点缀、肤色偏冷白、整体偏冷色系2 光线特点：柔和漫射光、对比度适中、阴影柔软无明显硬边、肤质光滑通透3 质感表现：丝袜细腻反光、蕾丝与布料褶皱清晰、沙发布纹可见
-```
-
-#### 📝 Prompt(Translated)
-
-```
-I. Clothing and Styling  1. Outfit style: Classic black-and-white maid dress, ruffled apron, lace-trimmed hem, pleated cuff design  2. Accessory details: Lace maid headpiece, black thigh-high stockings, garter straps to secure the stockings  3. Makeup and hair: Long straight black hair with blunt bangs, naturally inward-curled ends  II. Main Subject and Composition  1. Character setting: A girl with long straight black hair, lips slightly parted, delicate and cute face shape, relatively large eyes, clean makeup with a Japanese/Korean vibe  2. Pose and composition: Reclining diagonally on a vintage sofa, body arranged along a diagonal line, upper body slightly leaning back, one leg raised, close-up framing, the character fills the frame  3. Camera angle: Slightly low camera position, mild upward angle, legs enlarged in the foreground, shallow depth of field with a blurred background  III. Scene and Props  1. Setting: European-style vintage sofa, ornate gold armrests, patterned fabric cushions, backrest and wall in the same color family  2. Background elements: Light green wall, some decor blurred, overall background simple and not distracting  3. Spatial feel: An intimate indoor space, the character close against the sofa, creating a soft, enveloping feeling  IV. Color and Lighting  1. Main palette: Primarily black-and-white clothing, light green background with gold accents, cool pale skin tone, overall cool color scheme  2. Lighting characteristics: Soft diffused light, moderate contrast, soft shadows with no hard edges, smooth and translucent-looking skin  3. Texture rendering: Fine reflective sheen on the stockings, clear lace and fabric folds, visible sofa fabric texture
+A Belarusian girl, in a sunny bedroom, is wearing a loose white shirt (falling off the shoulders) and shorts, dancing lazily to K-pop music. Her movements are gentle and smooth, with casual hair twirls and a sweet smile towards the camera. The camera gradually moves from a close-up of her ankles to the moment of blinking. Style: Bright, fresh, with a touch of playful and sexy charm.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Maid Costume Portrait with Lace Headband and Stockings generated image](/assets/awesome00007.png)
+![Maid Costume Portrait with Lace Headband and Stockings generated image](/assets/awesome-r-6.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467d63aa7e08ed70ad72)
 
-### No. 17: Indoor Selfie Portrait by a Window at Dusk
+### No. 17: Film portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
-![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
 
 ```
-一、场景与背景1 日常落地窗背景：日常落地窗背景，树影斑驳2 氛围基调：整体氛围真实平静，毫无修饰感，呈现日常快照风格，强调真实生活瞬间二、人物与体态1 人物设定：年轻美女，神情自然，表情自然可爱2 身材特征：身材火辣傲人，上围挺拔饱满，沙漏型身材，葫芦形身材，露肩展现锁骨线条三、穿搭与造型1 服装风格：女生穿麻纱短上衣，时尚休闲，整体造型随性潮流2 发型细节：长发，细软发质，鬓角发丝自然垂落，微微反射光泽四、面部与妆容1 皮肤与底妆：皮肤白皙，底妆通透，肤色均匀自然2 五官特征：野性美，五官精致，瘦脸大眼，樱桃小嘴，尖下巴五、镜头与构图1 构图方式：构图为前置镜头自拍，镜头略偏斜2 自由度要求：姿势随机，角度随意，构图随意，动作随性六、光线与质感1 明暗关系：昏暗，运用伦勃朗光凸显立体轮廓2 画面质感：整体氛围真实平静，毫无修饰感，呈现日常快照风格
-```
-
-#### 📝 Prompt(Translated)
-
-```
-I. Scene and Background1. Everyday floor-to-ceiling window setting: an everyday floor-to-ceiling window backdrop with dappled tree shadows.  2. Mood and tone: the overall atmosphere is realistic and calm, completely unembellished, presenting an everyday snapshot style that emphasizes authentic moments of real life.II. Character and Posture1. Character setup: a young beautiful woman with a natural demeanor; her expression is naturally cute.  2. Body features: a hot, striking figure; perky and full bust; an hourglass silhouette; gourd-shaped figure; off-shoulder to show the collarbone line.III. Outfit and Styling1. Clothing style: the girl wears a linen-gauze short top, fashionable and casual; the overall look is relaxed and trendy.  2. Hairstyle details: long hair with fine, soft texture; side strands naturally falling; slightly reflecting a sheen.IV. Face and Makeup1. Skin and base makeup: fair skin; a translucent base; an even, natural complexion.  2. Facial features: a wild beauty; delicate features; slim face and big eyes; cherry-like small lips; pointed chin.V. Camera and Composition1. Composition method: a front-camera selfie composition, with the camera slightly tilted.  2. Freedom requirements: random pose, casual angle, casual framing, and spontaneous movement.VI. Lighting and Texture1. Light and shadow: dim, using Rembrandt lighting to highlight three-dimensional contours.  2. Image texture: the overall atmosphere is realistic and calm, completely unembellished, presenting an everyday snapshot style.
+Rich film grain texture, soft bokeh effect, dreamy Promist soft focus filter texture; lens panning creates dynamic blur, retro color grading, flash photography effect.
+Medium shot, the character is wearing a gray-brown plush knitted mini skirt, leaning forward towards the camera, with a slight upturn of the lips, exuding allure; swaying her hair, creating a dynamic blur effect.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Indoor Selfie Portrait by a Window at Dusk generated image](/assets/awesome00008.png)
+![Film Portrait generated image](/assets/awesome-r-7.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984470163aa7e08ed70ad87)
 
 ### No. 18: Cosplay model wearing a festive bunny-eared Santa hood
 
@@ -552,46 +538,53 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
 
 [👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6982ed1f38d6ccd4609ebad0)
 
-### No. 24: Nighttime Window Light Lingerie Photo Shoot
+### No. 24: Nighttime Photo Shoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-{  "aspect_ratio": "3:4 (vertical)",  "scene_description": "An intimate, candid indoor snapshot in a small apartment living room at night, centered on a single human subject on a light rug in front of a wide dark window. The image reads as a casual, ‘real-life’ moment with messy floor clutter (power strips, cables, small objects), mixed warm lamp light and cool window reflections, and a slightly chaotic domestic background that frames the subject as the dominant foreground mass. The overall mood is private, late-night, warm-but-dim, with strong depth created by the low camera placement and the subject’s body foreshortening toward the lens.",  "prompt": {    "scene_and_composition": {      "visual_hook": "Low-angle floor-level perspective with extreme foreshortening: the nearest bare sole and extended leg dominate the foreground while the torso twists away, creating a strong S-curve silhouette and a ‘caught in-between moments’ internet-candid tension against a cluttered floor of cables and small objects.",      "camera_angle": "Very low camera height (near rug level), slightly behind and to the side of the subject, aimed forward and slightly upward; perspective feels like a handheld phone shot from a seated/kneeling observer position, producing exaggerated near-to-far scale (feet closest to lens, head farther away).",      "framing_and_depth": "Full-body framing with the subject occupying most of the frame; deep perspective lines from the floor and window sill pull the eye back. Background is moderately sharp (no heavy bokeh), but attention is anchored by the large foreground limb/foot and the central body mass; clear separation of planes: foreground foot/leg, midground torso and arms, background furniture and window.",      "medium_physics": "Smartphone-like digital photo texture with mild noise in shadows, slightly compressed highlights, and soft edge sharpness typical of indoor low light; minimal motion blur, but a faint haze/flare and small dust-like specks suggest either lens smudges, airborne particles, or mild compression artifacts; overall ‘raw straight-out-of-camera’ internet snapshot feel."    },    "subject_content": {      "overall_pose": "A grounded, asymmetrical floor pose: seated/half-kneeling with the hips low, torso leaning forward and twisting, one leg folded underneath while the other extends long toward the camera.",      "limb_articulation": {        "left_arm": "Bent and placed close to the floor for support, elbow near the torso, forearm angled downward.",        "right_arm": "Tucked near the body, partially obscured by the torso angle; appears relaxed and used for balance rather than gesturing.",        "left_leg": "Folded and bent close to the body, knee drawn inward; foot planted or lightly resting on the rug near the hips.",        "right_leg": "Extended diagonally toward the bottom edge of the frame, creating strong foreshortening; the sole is visible and becomes a dominant foreground shape."      },      "pose_dynamics": "Weight is distributed low through the hips and supporting arm, with a twist through the spine and shoulders; tension is concentrated in the torso rotation and the extended leg line, while the overall energy remains quiet and still—an intentionally posed yet ‘casual’ candid posture.",      "makeup_look": "Makeup is not clearly readable due to angle and low light; skin appears natural with a soft warm sheen from indoor lighting. Note: makeup style is reference-only and must be merged with the input_photo’s facial features.",      "emotional_vibe": "Private, subdued, introspective; the head tilts downward and away from the camera, giving a withdrawn, quiet late-night atmosphere rather than overt performance.",      "main_object_apparel": "Muted mauve/lilac lingerie set in a semi-sheer, lace or mesh-like fabric with a soft matte finish; fitted bra and matching bottoms with visible seams and gentle wrinkling where the body compresses against the floor. Logical note: If this apparel is crucial to the image’s internet-candid vibe, prioritize it; if not, adapt to input_photo. If input_photo lacks outfit info (e.g., close-up only), strictly use this apparel description to complete the scene.",      "hair_and_styling": "Short-to-medium dark hair cut into a blunt bob that falls forward over one side due to the downward head tilt; strands look slightly tousled. Note: hair is reference-only and should adapt to input_photo.",      "interaction_with_environment": "Body weight subtly compresses into the rug; the supporting arm stabilizes on the floor; the extended leg reaches into the camera space, visually ‘invading’ the foreground plane. The subject is positioned in front of a window ledge and near a small rolling side table, with floor cables running around the pose area, reinforcing a cramped, lived-in setting."    },    "environment": {      "visual_depth_stack": {        "foreground_left_to_right": [          "1 small dark object near the bottom-left edge (compact, controller/adapter-like)",          "2 a light textured rug occupying most of the lower frame",          "3 the nearest bare foot/sole at the bottom center-right edge as the closest foreground form",          "4 a crumpled piece of fabric/clothing near the bottom-right corner"        ],        "middle_ground_left_to_right": [          "1 the edge of a light-colored sofa with a fluffy/throw blanket draped over it (left)",          "2 a wall outlet area with 2 visible plug points and 1 power strip on the floor, with multiple white cables snaking across the rug",          "3 the subject centered on the rug",          "4 a small warm light source on the floor (candle-like) with a reddish decorative element nearby",          "5 a round tabletop on the right with a translucent plastic bag and stacked items (paper/plates-like), plus additional cables beneath"        ],        "background_left_to_right": [          "1 a large window with dark reflective glass spanning the upper half of the frame",          "2 a low white window ledge/sill running horizontally",          "3 a small rolling side table with thin red legs and caster wheels positioned behind the subject",          "4 a rectangular light-colored box/speaker-like object on the table",          "5 reflections of interior objects in the window, including dark silhouettes and faint cool highlights suggesting nighttime outside"        ]      },      "lighting_atmosphere": {        "key_light": "Warm indoor practical light from the left side (likely a lamp near the sofa), moderately soft but directional, creating bright highlights along the subject’s back/shoulder and gentle falloff across the torso and legs.",        "fill_ambient": "Cool, low-intensity ambient from the window area and screen-like reflections in the background, lifting shadows with a bluish tint and producing a subtle warm–cool contrast.",        "interaction": "Soft specular highlights on skin (shoulders, thighs, shin) indicate close indoor lighting; shadows pool under the bent leg and along the rug texture; the window reads as a dark mirror plane with faint reflected shapes, adding depth and a nocturnal mood."      }    },    "realism_rules": {      "style_definition": [        "Raw phone-photo realism (straight-out-of-camera domestic snapshot)",        "Late-night apartment candid aesthetic with mild clutter",        "Subtle warm practical lighting contrasted with cool window reflections"      ],      "imperfection_tolerance": [        "Allow mild sensor noise and shadow grain",        "Allow slight lens haze/smudges and small compression artifacts",        "Allow imperfect color balance (mixed temperature lighting) and slightly clipped highlights on bright surfaces",        "Avoid overly clean studio polish; keep ‘lived-in’ messiness and authentic textures"      ]    }  }}
+A girl's indoor selfie snapshot, with a millennial retro style. She is lying on her side on the bed, with her black long messy hair naturally fluffy. She is supporting her head with one hand, biting her lip and looking straight at the camera, exuding a touch of slight sexiness and playfulness.
+Clothing: A short white top (with a transparent neckline and small embroidered logo), the background shows black sports pants.
+Accessories: Layered gold chains (mixed pendants), string beads + gold bracelets layered together, small gold hoop earrings.
+Lighting: Direct flash from the camera, high contrast, strong highlights on the face, dark shadows in the background, visible flash spots, medium film grain.
+Details: Bedsheet background, the environment is dim with flash lighting as the main source, warm skin tone + neutral shadows, no blur / no motion blur, no alteration of facial features.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Nighttime Window Light Lingerie Photo Shoot generated image](/assets/awesome00012.png)
+![Nighttime Window Light Lingerie Photo Shoot generated image](/assets/awesome-r-8.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=698446fc63aa7e08ed70ad82)
 
 
-### No. 25: Woman in black bunny costume on a bed
+### No. 25: Woman in black bikini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-{  "aspect_ratio": "2:3 (vertical portrait)",  "scene_description": "A cozy, bedroom selfie-style portrait with strong internet-glam ‘bunny outfit’ vibes: the primary subject is seated on an unmade white bed in front of full-height gray blackout curtains, framed by a faint line of pink fairy lights along the ceiling edge. The overall feel is intimate and softly playful, with a clean, minimal room backdrop and a deliberate emphasis on body posture and leg-forward perspective.",  "scene_and_composition": {    "visual_hook": "The immediate hook is the exaggerated near-camera leg dominance created by a wide-angle perspective: the foreground is filled by fishnet-patterned tights and bent knees forming bold geometric lines, while the upper body leans back with a relaxed, confident pose; the bunny-ear headband punctuates the silhouette and reinforces the playful, nightlife-inspired aesthetic.",    "camera_angle": "Slightly above-bed, near-subject smartphone perspective, angled downward just enough to keep the face and torso in the upper center while letting the legs surge toward the lens; the viewpoint feels like a handheld or propped phone at close distance, typical of bedroom content.",    "framing_and_depth": "Three-quarter to near-full-body framing with the subject centered-right; strong forced depth from foreground legs (closest plane) to midground torso and head, with the background curtains kept relatively in focus (moderate depth of field). The bed surface creates a soft diagonal plane that guides the eye from lower right to upper left.",    "medium_physics": "Digital phone-photo clarity with mild low-light noise and light skin-smoothing; edges are clean with minimal motion blur, suggesting a steady hand or short exposure. Highlights on fabric read slightly specular, consistent with direct on-camera flash or a small, frontal LED."  },  "subject_content": {    "overall_pose": "Seated on the bed in a reclined, slightly diagonal pose, torso angled toward camera while leaning back for support, legs bent and drawn up to dominate the foreground plane.",    "limb_articulation": {      "left_arm": "Extended backward and outward, palm/hand pressing into the bed to support body weight.",      "right_arm": "Also braced behind the torso on the bed, elbow softly bent, stabilizing the reclined posture.",      "left_leg": "Bent at the knee and brought closest to the camera, creating the largest foreground shape; thigh and knee form a strong diagonal.",      "right_leg": "Bent and tucked beneath/alongside the left leg, partially occluded, contributing to layered leg geometry."    },    "pose_dynamics": "Weight is clearly shifted backward onto both arms, opening the chest and elongating the torso; the pelvis and knees are pulled forward, creating tension between recline and forward leg projection. Overall body language reads relaxed, posed, and intentionally camera-aware.",    "makeup_look": "Soft glam finish with even complexion, subtle blush warmth, and defined yet natural eye emphasis; lips appear softly tinted with a satin finish; skin reads smooth with gentle highlight on high points. Note: makeup style is reference-only and should be fused with the input_photo’s facial features.",    "emotional_vibe": "Playful, self-assured, slightly teasing but calm—an intimate bedroom mood with a polished, curated ‘internet’ confidence.",    "main_object_apparel": "A black, form-fitting bunny-inspired outfit: strapless or thin-strapped structured bodice with smooth, slightly shiny fabric that catches frontal light; paired with nude-tone tights featuring large-scale black fishnet grid lines (geometric diamond/square pattern). A black bunny-ear headband adds a tall silhouette accent. Note: if this outfit is crucial to the photo’s internet vibe, prioritize it; if not strongly tied, it may be swapped referencing input_photo; if input_photo info is insufficient (e.g., close-up only), strictly use this description to complete the scene.",    "hair_and_styling": "Long, voluminous hair with loose waves and slightly tousled texture, framing the face and falling over shoulders; bunny-ear headband sits centered on the crown. Note: hair (and any facial hair) is reference-only and should adapt to input_photo.",    "interaction_with_environment": "Hands press into the mattress, subtly compressing the bedding; thighs and hips indent the bed surface, producing natural wrinkles and folds in the white sheets; the subject is positioned close to the headboard/pillow area, using the bed as both stage and support."  },  "environment": {    "visual_depth_stack": {      "foreground": "1) White bed sheets with pronounced creases and compression folds, 2) the subject’s fishnet-patterned legs occupying most of the lower frame.",      "middle_ground": "1) The subject’s torso in a black bodice, 2) a white pillow tucked behind the subject on the right side, 3) the subject’s arms braced into the mattress creating visible fabric tension lines.",      "background": "1) Full-width gray curtains with vertical pleats spanning the entire back wall, 2) a continuous string of small pink fairy lights tracing the ceiling line, 3) a wall-mounted air conditioner unit at the upper left corner."    },    "lighting_atmosphere": {      "key_light": "Frontal, near-lens light (likely phone flash or small LED), moderately hard with crisp specular highlights on the black fabric and brightened facial plane; the direction is almost straight-on with slight camera-right bias.",      "fill_ambient": "Soft room ambient light keeps shadows from going fully black; the curtains and wall stay neutral-gray with gentle gradients, indicating low, even background illumination.",      "interaction": "Catchlight effect on the eyes and glossy micro-highlights on skin; fishnet lines render sharply against the tights due to direct light; bedding shows bright hotspots on fold peaks and soft shadow troughs, enhancing tactile depth."    }  },  "color_palette_and_tone": {    "palette": "Neutral grays (curtains), clean whites (bedding), deep black (outfit and fishnet lines), muted warm skin tones, and small accents of soft pink (fairy lights).",    "tone": "Low-contrast cozy room base with a flash-lifted subject; mildly warm skin against cool-neutral background for gentle separation."  },  "visual_style": {    "style_keywords": [      "internet-glam bedroom portrait",      "playful nightlife cosplay-inspired aesthetic",      "smartphone flash look",      "clean minimal room backdrop",      "leg-forward forced perspective"    ],    "single_paragraph_architectural_narrative": "A vertical, smartphone-style bedroom portrait uses forced perspective to make the near-camera bent legs in large-grid fishnet tights dominate the foreground, their geometric lines acting as the main graphic pattern leading toward a reclined subject seated on a rumpled white bed. The subject leans back diagonally with both hands planted into the mattress, creating visible compression and sheet folds, while the torso remains centered and the head sits high in frame, crowned by a black bunny-ear headband that adds a tall, playful silhouette marker. Behind, full-height gray curtains with evenly spaced vertical pleats span the wall, forming a soft, uniform backdrop; a thin line of pink fairy lights traces the ceiling edge, and a wall-mounted air conditioner occupies the upper-left corner, adding a lived-in domestic detail. Lighting appears to be a frontal on-camera flash or small LED—moderately hard and close to the lens—brightening the face and producing crisp specular sheen on the black bodice, while ambient room light softly fills shadows so the background remains readable. The overall color story is neutral and clean—white bedding and gray drapery—punctuated by deep blacks and faint pink points, resulting in an intimate, curated internet mood with mild low-light noise and a lightly smoothed digital finish.",    "technical_execution": {      "lens_feel": "Wide to standard smartphone focal length with noticeable foreground enlargement (forced depth).",      "sharpness": "Subject and foreground legs appear sharp; background remains moderately sharp rather than heavily blurred.",      "dynamic_range": "Flash lifts midtones; highlights on bedding and outfit are bright but controlled; shadows remain soft."    }  },  "realism_rules": {    "aesthetic_definition": "‘Original phone output’ bedroom glamour: minimal set dressing, flash-forward clarity, playful cosplay cue (bunny ears + bodysuit), and a clean but intimate indoor environment with fairy-light ambiance.",    "imperfection_tolerance": [      "Allow mild low-light sensor noise in darker curtain areas",      "Allow slight over-brightening from flash on skin and bedding highlights",      "Allow minor skin-smoothing artifacts typical of phone beauty processing",      "Allow small framing asymmetries and casual bedroom clutter realism (wrinkled sheets, pillow angles)"    ],    "do_not_overidealize": [      "Keep fabric wrinkles and mattress compression realistic",      "Keep fishnet lines slightly imperfect due to stretching over joints",      "Maintain natural shadow gradients under legs and along bedding folds"    ]  }}
+Generate a young Asian female with fair skin, wearing a dark brown bob hairstyle with tousled hair动感. She is wearing a black neck-wrap style cross-strap bikini top, her left middle finger is wearing a silver ring， and she has long dangling silver earrings on her ears.
+Scene and lighting： The beach coastline at dusk， moist sand and waves. Use mixed light.
+Photographic style： The foreground character is clearly illuminated by the cold-toned direct flash (on-camera flash)， the background sunset sky shows a warm orange gradient， the sea surface glows purple-blue in the twilight， 35mm lens perspective， aperture f/4.0， the character is clear while the background sea scenery is slightly blurry， creating a high-contrast atmosphere with a 90s film-like quality.
+Actions can be customized， here is a reference： The character is in a mid-shot， the main subject's posture is sideways (3/4 view) facing the camera， the body center of gravity slightly sinks， full of dynamics. Both arms are raised above the head， the small arms naturally cross above the head， showing the slender arm lines and collarbones， fingers relaxed and stretched.
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Woman in black bunny costume on a bed generated image](/assets/awesome00013.png)
+![Woman in black bikini generated image](/assets/awesome-9.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=698446fb63aa7e08ed70ad81)
 
 ### No. 26: Neon Green Wig Fashion Portrait in Industrial Corner
 
@@ -613,25 +606,25 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
 
 [👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6982ed1c38d6ccd4609ebacd)
 
-### No. 27: Mirror selfie with camera flash in a bedroom
+### No. 27: Mirror selfie in a bedroom
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-{  "aspect_ratio": "1:1 (square)",  "scene_description": "A dark, intimate mirror-selfie scene in a bedroom-like interior, captured through a large circular/arched mirror with visible frame segments, where the primary subject is posed close to the mirror and partially turned so the lower back and hip area becomes the compositional anchor; the phone is held up high to obscure the face, and the camera flash blooms into a harsh white hotspot at the top center, creating a moody, nightlife-at-home ‘internet mirror pic’ atmosphere with heavy shadow falloff, dust/speckling on the mirror surface, and faint lens flare artifacts that emphasize a raw, unpolished, late-night vibe; the foreground is dominated by the mirror’s reflective plane and surface grime, the midground is the subject’s body and clothing pressed near the reflective surface, and the background recedes into a nearly black room with only a few soft-edged hints of bedding and wall geometry, producing a shallow sense of depth that reads as enclosed and private rather than expansive.",  "prompt": {    "scene_and_composition": {      "visual_hook": "Mirror-selfie flash hotspot + the sharply emphasized hip-to-waist curve created by a side-turned, close-to-mirror pose, with the bright phone case blocking the face and forcing attention onto silhouette, lingerie texture, and the glossy highlight roll-off on skin.",      "camera_angle": "Eye-level-to-slightly-high mirror perspective, as if the phone is raised above the head and angled downward toward the torso; the mirror acts as the camera, with the subject standing very close to it so the body fills most of the frame; flash is fired straight into the mirror, producing a central glare and hard specular reflections.",      "framing_and_depth": "Tight medium-to-close framing that crops out most of the room; the subject occupies the central and lower half of the square frame; background detail is minimal and underexposed, functioning as a dark void with faint bedding contours; depth is mostly implied by tonal separation (skin/lingerie vs black room) rather than visible spatial detail.",      "medium_physics": "Smartphone flash look with clipped highlights at the flash point, strong contrast, and noticeable mirror dust/speckle texture; slight digital noise in the shadows; subtle flare/ghosting near the lower center (small bluish-green flare spot), and a ‘raw camera roll’ feel rather than studio polish."    },    "subject_content": {      "overall_pose": "A close-to-mirror, side-turned stance with the torso angled away and the hips rotated toward the mirror to accentuate curvature; upper body slightly twisted to hold the phone up in front of the face.",      "limb_articulation": "One arm raised high with the hand gripping a smartphone directly in front of the face; the other arm is not clearly visible or is tucked behind/out of frame; legs are mostly out of frame but the lower torso suggests a stable stance with weight shifted onto one hip to create an S-curve through the waist and pelvis.",      "pose_dynamics": "Weight appears loaded into the nearer hip, creating a pronounced pelvic tilt; the torso twist adds tension through the waistline while the shoulders remain relatively relaxed; the overall body language reads deliberate and posed for a mirror shot.",      "makeup_look": "Makeup is not clearly visible due to face occlusion by the phone and flash glare; skin reads as natural with flash-enhanced sheen and smooth highlight transitions. Note: makeup style is reference-only and must be adapted to the input_photo’s facial features.",      "emotional_vibe": "Private, confident, slightly provocative ‘late-night mirror pic’ energy—cool, self-aware, and intentionally mysterious due to face concealment.",      "main_object_apparel": "A dark, fitted long-sleeve top (appears black) with minimal visible texture due to low light, paired with light-colored lace underwear featuring floral lace patterning and semi-sheer panels; lace catches the flash with crisp micro-contrast, while the top absorbs light and reads as matte, creating a strong material contrast. Note: if this outfit is crucial to the image’s internet-sense and mood, prioritize it; if not, it may be swapped to match input_photo; if input_photo lacks full-body context, keep this exact apparel description to complete the scene.",      "hair_and_styling": "Hair is largely obscured by darkness and phone placement; only a faint outline is visible near the head/shoulder area. Note: hair styling is reference-only and should be adapted to the input_photo.",      "interaction_with_environment": "The subject is positioned very close to the mirror, using the reflective surface as the primary stage; flash physically interacts with mirror dust and smudges, making specks visible; proximity compresses space so the body visually ‘presses’ into the frame with minimal room context."    },    "environment": {      "visual_depth_stack": {        "foreground": [          "1 circular/arched mirror reflective surface with visible dust/speckle pattern",          "1 strong flash glare hotspot near the top-center of the reflection",          "1 faint bluish-green lens flare orb near the lower-center area"        ],        "middle_ground": [          "1 smartphone with a saturated warm/coral-red case held in front of the face",          "1 dark long-sleeve top forming a near-black mass across the upper torso",          "1 light lace underwear with floral pattern forming the brightest textile detail in the lower frame",          "1 partial view of bedding edge at the bottom-left corner (soft, pale fabric)"        ],        "background": [          "1 dim, nearly black room interior with minimal readable features",          "1 suggestion of bed/sofa surface behind the subject (dark, soft texture)",          "1 mirror frame/segmented arcs visible along the left and right edges, indicating the mirror’s structure"        ]      },      "lighting_atmosphere": {        "key_light": "On-axis smartphone flash fired directly into the mirror, extremely hard and specular, producing a blown-out white hotspot and sharp highlight edges on reflective and semi-gloss surfaces (skin and lace).",        "fill_ambient": "Very low ambient exposure with deep shadow regions; shadows carry a cool, near-neutral black tone with mild digital noise, offering minimal detail in the room.",        "interaction": "Flash creates strong specular highlights on skin and lace, while the black top remains largely matte and absorbs light; mirror dust becomes visible as bright specks against the dark field; flare artifacts appear as small colored ghosts near the lower center, reinforcing the ‘raw phone flash’ aesthetic."      }    },    "realism_rules": {      "aesthetic_style_definition": [        "Raw smartphone mirror-selfie aesthetic (direct flash, high contrast, underexposed room)",        "Late-night bedroom intimacy vibe with intentional face concealment",        "Internet-sense cues: visible mirror dust, flash bloom, lens flare, imperfect exposure"      ],      "tolerance_for_imperfections": [        "Allow clipped highlights at the flash point",        "Allow heavy shadow crush and limited background detail",        "Allow visible mirror smudges/dust and sensor noise in dark areas",        "Allow minor lens flare/ghosting artifacts"      ]    }  }}
+Kardashian bathroom selfie, marble bathroom vanity, ring light glow, wrapped in a white towel, wet hair look, nude manicured nails, skincare products displayed, mirror selfie pose, intimate yet glamorous, soft focus, pearl earrings, silk robe, aesthetic lifestyle, Instagram famous style
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Mirror selfie with camera flash in a bedroom generated image](/assets/awesome00024.png)
+![Mirror selfie in a bedroom generated image](/assets/awesome-r-10.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467b63aa7e08ed70ad70)
 
 ### No. 28: Woman in Red Dress Lying on a Sofa
 
@@ -640,18 +633,23 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
 #### 📝 Prompt
 
 ```
-{  "aspect_ratio": "1:1 (square)",  "scene_description": "A casual indoor lounge scene on a light-beige fabric sofa, shot from a very low, close perspective at cushion level, where the primary subject is lying face-down across the sofa in a relaxed, sprawled posture; the image’s immediate visual hook is the exaggerated perspective of the feet closest to the lens and the strong depth cue created by the legs stretching diagonally across the frame toward the subject’s torso, while the background recedes into warm, softly lit cabinetry and a faintly visible lamp glow, producing an intimate, private, late-evening apartment atmosphere with muted, cozy warmth and tactile textile textures dominating the frame.",  "composition": {    "visual_hook": "Extreme near-lens foreground emphasis on the closest foot and sole area, enlarged by perspective, with the legs forming a strong diagonal leading line into the midground body; the tight red dress creates a high-contrast color anchor against the neutral sofa fabric, reinforcing the image’s internet-sense, voyeuristic couch-level candid feel.",    "camera_angle": "Couch-level, ultra-low angle from near the seat cushion, slightly tilted upward along the sofa surface, with a wide-angle feel that amplifies the near foot and compresses the torso into the upper-left area of frame.",    "framing_and_depth": "Near full-body but cropped at the head/upper body edge; foreground is dominated by the closest foot, midground holds both legs and hips, background contains sofa backrest and the room’s cabinetry; moderate depth-of-field—foreground and midground remain relatively clear while the far background is mildly softened, maintaining a casual phone-camera realism.",    "medium_physics": "Smartphone-like digital capture with clean edges and mild low-light noise; minimal motion blur; fabric weave detail remains visible; gentle compression artifacts typical of social media reposting; no cinematic grain, but a slight warm indoor haze from mixed lighting."  },  "subject_content": {    "overall_pose": "Prone (face-down) lounging pose across a sofa, torso angled toward the left side of the frame, hips centered, legs extended toward the camera in a relaxed sprawl.",    "limb_articulation": "Left leg extends forward toward the lower-left foreground with the foot closest to the lens; right leg extends toward the lower-right foreground, slightly bent outward at the knee; one arm reaches upward and rests along the sofa back area; the other arm is largely obscured by the body and sofa angle.",    "pose_dynamics": "Body weight sinks into the sofa cushions creating visible compression; the pelvis and thighs are supported by the seat while the legs stretch outward, creating relaxed tension lines along the stockings; torso is turned slightly away from the camera, emphasizing a candid, unposed rest state.",    "makeup_look": "Makeup not clearly readable due to the face being largely turned away/obscured; skin appears smooth with soft indoor highlights. Note: makeup style is only a reference and must be blended with the input_photo’s facial characteristics.",    "emotional_vibe": "Private, languid, off-guard, cozy-at-home mood—more restful than performative, with a subtle intimate candid energy created by the low angle and close proximity.",    "main_object_apparel": "A tight, short red bodycon-style dress with smooth, slightly matte stretch fabric, hugging the torso/hips and creating clean contour lines; semi-opaque nude/tan stockings covering the legs and feet, with subtle sheen and visible toe seam/edge detail near the toes. Note: if this outfit is crucial to the current photo’s vibe/internet-sense, prioritize it; if not strongly tied, it may be swapped by referencing the input_photo; if the input_photo lacks full-body context (e.g., only a headshot), this description must be used to complete the scene.",    "hair_and_styling": "Dark, long hair spilling to the left side, partially spread on the sofa; no clearly visible accessories. Note: hair styling is only a reference and should adapt to the input_photo.",    "interaction_with_environment": "The subject’s weight visibly dents the sofa seat and back cushions; legs and feet rest directly on the upholstery, with stockings lightly catching the warm ambient light; the arm resting near the sofa back suggests a relaxed, unstructured lounge interaction."  },  "environment": {    "visual_depth_stack": {      "foreground": [        "1) Closest foot in nude/tan stocking occupying the lower-left corner with seam detail near the toe",        "2) Sofa seat fabric weave in light beige, filling most of the lower frame",        "3) Second foot in nude/tan stocking in the lower-right corner, slightly farther than the left foot"      ],      "middle_ground": [        "1) Both legs extending diagonally across the sofa seat toward the upper-left",        "2) The hip/waist area anchored by the red dress near the left-middle of the frame",        "3) Sofa back cushions in matching light-beige fabric with visible creases and soft sag"      ],      "background": [        "1) Warm-toned interior wall/cabinet panels spanning the upper frame",        "2) A softly glowing lamp area at the far left edge contributing warm ambient light",        "3) Vertical seams/edges of cabinetry or wall panels adding subtle architectural structure"      ]    },    "lighting_atmosphere": {      "key_light": "Warm indoor practical lighting coming from the left side (lamp-like source), moderately diffused, producing soft highlights on stockings and gentle illumination across the sofa fabric.",      "fill_ambient": "Low-contrast ambient room light fills shadows with a warm beige-brown tone; shadow areas under the legs and along cushion creases remain visible but not crushed.",      "interaction": "Soft specular sheen appears on the stockings where light grazes the curved surfaces of feet and calves; the sofa weave catches side light, revealing texture; the red dress absorbs light more evenly, reading as a dense color block against neutral upholstery."    }  },  "realism_rules": {    "aesthetic_style_definition": [      "Casual candid smartphone photo realism",      "Warm cozy apartment interior vibe",      "Internet-sense perspective exaggeration (wide-angle couch-level shot, near-foot dominance)",      "Natural fabric-texture emphasis (sofa weave, stocking sheen)"    ],    "imperfection_tolerance": [      "Allow mild low-light noise and social-media compression",      "Allow slight white balance warmth and uneven indoor illumination",      "Allow minor focus falloff toward deep background",      "Avoid overly perfect studio skin; keep natural texture and soft highlight roll-off"    ]  }}
+[Internet celebrity], [excellent appearance] [in the bathroom] using [0.5x zoom] to take [daily sharing photos]
+[Pretending to look elsewhere], [cold style + unrestrained], [inadvertent sexiness],
+[Realistic texture], [straight from the camera], [24 years old]
+[Scattered hair], [slippery straps], [ins style],
+[Real skin texture], [approximate pose], [deliberate photography style],
+[Real photos], [attractive body curves]
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Woman in Red Dress Lying on a Sofa generated image](/assets/awesome00015.png)
+![Woman in Red Dress Lying on a Sofa generated image](/assets/awesome-r-11.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984470d63aa7e08ed70ad92)
 
 ### No. 29: Nighttime Pool Portrait with Rippling Blue Water
 
@@ -673,25 +671,25 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
 
 [👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6982ed1938d6ccd4609ebaca)
 
-### No. 30: Bedroom Portrait with Off-Shoulder Shirt
+### No. 30: Shower Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
 
 #### 📝 Prompt
 
 ```
-{  "aspect_ratio": "9:16 (vertical smartphone screenshot with thick black bars top and bottom; central photo occupies middle band)",  "scene_narrative": "A candid, internet-native bedroom selfie shows a single person seated close to the camera in a softly lit, lived-in room, creating an intimate, late-night/at-home mood. The visual focus is the relaxed, slightly slouched seated posture combined with an off-shoulder, loosely draped outer layer that exposes one shoulder and collarbone area, contrasted against the utilitarian black gaming chair beside them. The subject’s gaze is angled downward and to their left, conveying a quiet, introspective, slightly tired calm; the overall look feels like an unposed moment captured on a front-facing phone camera. In the immediate environment, a bed with a muted pink fitted sheet fills the left side of the frame, while a white paneled wardrobe/closet door anchors the background, adding vertical geometry and a domestic texture. The right side is dominated by a black gaming chair with visible white lettering on the headrest, its synthetic leather catching small specular highlights. Depth is established by the subject in the mid-foreground, the bed and chair as midground anchors, and the closet doors receding behind, all rendered with moderate smartphone sharpness and gentle noise. Lighting appears to come from a soft, warm indoor source from the front-left (possibly a room lamp or screen glow), producing low-contrast shadows under the chin and along the draped fabric folds, with a mild warm color cast and subdued saturation that emphasizes beige, gray-blue, black, and dusty pink. The camera perspective is a slightly elevated, close-to-medium framing (upper torso dominant), typical of handheld or propped phone capture, with minimal lens distortion and a naturalistic, unretouched texture.",  "prompt": {    "scene_and_composition": {      "visual_hook": "The internet-sense hook is the intimate, at-home candid: a loosely draped, off-shoulder outer layer slipping down one side while the subject looks down and away, creating a soft vulnerability and casual bedroom realism; the contrast between cozy bedding (dusty pink) and the sleek black gaming chair adds a modern streamer-bedroom vibe.",      "camera_angle": "Slightly high camera position angled down toward the seated subject, as if from a phone held or mounted just above eye level; the lens is close enough to emphasize upper torso and shoulders, with the subject turned three-quarters to camera and head tilted down-left.",      "framing_and_depth": "Medium close shot focused on head/shoulders/upper torso; the subject occupies center-right, bed occupies left; background closet doors are clearly readable with mild softness—no heavy bokeh, just modest depth separation typical of a smartphone.",      "medium_physics": "Smartphone screenshot look with UI-like black bars; mild low-light noise and gentle smoothing, crisp edges on glasses and chair stitching, soft fabric fold detail; no strong motion blur, exposure slightly warm and even, with subtle compression artifacts."    },    "subject_content": {      "overall_pose": "Seated, slightly slouched forward with torso angled three-quarters to the camera; shoulders relaxed, one shoulder more exposed due to the draped outer layer.",      "limb_articulation": "Arms rest low and close to the body, partially hidden by the oversized outer layer; forearms likely gathered near the lap; legs are out of frame, implied seated position in front of the bed and adjacent to the chair.",      "pose_dynamics": "Weight settled into the seat with a gentle forward lean; neck and head tipped downward, creating a soft, withdrawn tension line from chin to collarbone; overall body language reads calm and introspective rather than performative.",      "makeup_look": "Natural, minimal everyday makeup with soft, low-contrast complexion and lightly defined lips; skin appears smooth with a subtle, indoor-light sheen. Makeup style note: for recreation, treat this as a reference only and blend with the input_photo’s facial features.",      "emotional_vibe": "Quiet, private, slightly sleepy/reflective mood; avoids direct eye contact with the camera, giving a candid ‘caught in a moment’ atmosphere.",      "main_object_apparel": "A beige, body-hugging camisole/tank with thin straps forms the inner layer, while an oversized, pale gray-blue shirt or lightweight jacket is worn open and slouched off one shoulder, producing soft folds and a casual, undone silhouette; fabrics read as matte and comfortable, with the outer layer showing wrinkling and drape-driven creases. Logic note: if this outfit is crucial to the current photo’s internet vibe, prioritize it; if not, adapt using input_photo. If input_photo lacks full-body context, use this description to complete the scene.",      "hair_and_styling": "Medium-length, straight dark hair with a natural, slightly tousled fall and soft fringe; styling is casual and lived-in. Note: hair is reference-only and should adapt to input_photo.",      "interaction_with_environment": "The subject sits close to the bed’s edge area, occupying the space between bed and gaming chair; the draped outer layer bunches against the seat and torso, and the chair’s side bolsters frame the right edge, reinforcing a cramped, real-bedroom layout."    },    "environment": {      "visual_depth_stack": {        "foreground": [          "1) Thick black letterbox area from the phone screenshot UI framing at the top and bottom",          "2) The subject’s draped outer layer occupying the lower center-right edge"        ],        "middle_ground": [          "1) Left: a bed with a dusty pink fitted sheet, slightly wrinkled and stretched flat",          "2) Center-right: a black gaming chair with stitched panels and white printed lettering on the headrest",          "3) Right: a small glimpse of wall and outlet area near the chair"        ],        "background": [          "1) Center: white paneled closet/wardrobe doors with vertical rectangular insets",          "2) Left: a dark headboard edge or wall panel behind the bed",          "3) Right: light-colored wall continuing behind the chair"        ]      },      "lighting_atmosphere": {        "key_light": "Soft, warm indoor key light from the front-left, moderately diffused, producing gentle highlights on skin and faint specular reflections on glasses lenses and the chair’s synthetic leather.",        "fill_ambient": "Low-contrast ambient room light fills shadows with a warm-gray tone; shadow regions retain detail (no crushed blacks), especially on the outer layer folds and under the jawline.",        "interaction": "Subtle highlight roll-off along the exposed shoulder/collarbone; mild lens reflection on glasses; small shiny hotspots on the chair’s curved leather panels; bedding remains matte with minimal glare."      }    },    "realism_rules": {      "style_definition": [        "Candid ‘raw’ smartphone selfie aesthetic (unposed, natural posture, domestic clutter-minimal bedroom setting)",        "Soft warm indoor lighting, subdued saturation, gentle skin texture retention",        "Streamer-bedroom adjacency: gaming chair as a modern lifestyle prop without heavy stylization"      ],      "imperfection_tolerance": [        "Allow mild low-light noise and compression artifacts",        "Allow slight uneven white balance (warm cast) and small exposure inconsistencies",        "Allow minor lens reflections on eyewear and soft shadow gradients",        "Avoid over-sharpening or beauty-filter plastic skin; keep natural texture"      ]    }  }}
+soft morning light, after shower, wet hair, drops of water on skin, oversized white shirt, casual and intimate, TikTok style, cinematic lighting, realistic skin texture, gentle smile, looking out of window, slow motion close-up
 ```
 
 #### 🖼️ Generated Images
 
 <div align="center">
   
-![Bedroom Portrait with Off-Shoulder Shirt generated image](/assets/awesome00021.png)
+![Shower Portrait generated image](/assets/awesome-r-12.png)
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6984467863aa7e08ed70ad6d)
 
 ### No. 31: Casual Indoor Portrait on Blue Sofa
 
