@@ -120,7 +120,7 @@ Young adult woman sitting on the floor, relaxed yet elegant pose, full-body to t
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image/A-Woman-Dressed-In-A-Lavender-Lace-Dress-Poses-Elegantly-On-A-White-Rug-Surrounded-By-Pastel-Balloons-In-A-Sleek-Mirrored-Setting)
 
 ### No. 4: Studio Fashion Portrait with Bubblegum on Blue Background
 
@@ -731,4 +731,4 @@ Ricoh GR3 Negative Film aesthetic portrait, a young sexy Korean idol lying on wh
   
 </div>
 
-[👉 Try it Now on WeShop AI](https://weshop.ai)
+[👉 Try it Now on WeShop AI](https://www.weshop.ai/bestexamples/Featured/z-image?id=6982ed1638d6ccd4609ebac8)
